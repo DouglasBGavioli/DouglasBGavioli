@@ -1,4 +1,5 @@
 - Ola, me chamo Douglas Biassi Gavioli
+- Bacharel em Ciência da computação (URI)
 - Desenvolvedor Front-End na Compass.uol
 - GitHub de projetos desenvolvidos com finalidade de estudo
 - Contato: douglasbiassi.dev@hotmail.com
